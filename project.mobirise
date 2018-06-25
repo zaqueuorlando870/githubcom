@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gelataria Josefina-Isaias",
-    "currentPage": "index.html",
+    "currentPage": "Gelados.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -580,7 +580,7 @@
                 "showTitle": true,
                 "title": "Uma variedade de sabores so pra voce.",
                 "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "text": "Cones para sua delicia<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>"
               },
               {
