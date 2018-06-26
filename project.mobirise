@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gelataria Josefina-Isaias",
-    "currentPage": "index.html",
+    "currentPage": "Humbuerguers.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -454,20 +454,8 @@
             "bgColor": "#41a85f",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/hamburger-png-file-1500x1485.png",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Humburguer mix",
-                "contentAlign": "center",
-                "text": "Criado com o maior carinho.. ingrediente principal Pimenta",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>",
-                "overlay": false
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/hamburguer3-664x549.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
