@@ -455,7 +455,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/hamburguer3-664x549.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -466,14 +466,14 @@
                 "overlay": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/hamburger-png-file-1500x1485.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Humburguer Indiano",
+                "title": "Humburguer Familiar triplo",
                 "contentAlign": "center",
-                "text": "Uma combinacao perfeita com o melhor sabor ja mais testado.",
+                "text": "Uma mistura Ideal para familia e amigos com ingrediente principal batas torradas.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>",
                 "overlay": false
               },
@@ -486,18 +486,6 @@
                 "title": "Humburguer Chiminha",
                 "contentAlign": "center",
                 "text": "Uma delicia, com o ingrediante principal a cove.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>",
-                "overlay": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Humburguer Familiar triplo",
-                "contentAlign": "center",
-                "text": "Uma mistura Ideal para familia e amigos com ingrediente principal batas torradas.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>",
                 "overlay": false
               }
