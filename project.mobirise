@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gelataria Josefina-Isaias",
-    "currentPage": "Humbuerguers.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 22,
+    "uniqCompNum": 63,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "siteUrl": "",
@@ -68,7 +68,7 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"comming soon.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -76,8 +76,9 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -85,7 +86,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
           "_tags": [
             "Theme"
           ],
@@ -111,7 +112,8 @@
                 "title": "Copo",
                 "contentAlign": "right",
                 "text": "<b><i>Viva a vida com recheios a sua escolha, e delicie-se fazendo misturas de sabores de frutos.</i></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RECHEIOS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SABORES</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Recheios.html\" data-toolbar=\"-mbrBtnMove\">RECHEIOS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">SABORES</a>",
+                "overlay": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/baac51-ec98ba3fb62b4140be49e8c2fde05a73-1440x906.png",
@@ -122,7 +124,7 @@
                 "title": "Cones",
                 "contentAlign": "right",
                 "text": "<b><i>Sabores Variados preparados com muito amor e carinho para a satisfacao sua.&nbsp;</i></b>",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1 SABORES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2 SABORES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3 SABORES</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">1 SABORES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">2 SABORES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">3 SABORES</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
@@ -133,7 +135,7 @@
                 "title": "Humburguer Familiar Triplo",
                 "contentAlign": "right",
                 "text": "<b><i>Delicie-se na maior tranquilidade, porque o que voce quer Nos sabemos Fazer.</i></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Vetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Normal</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Vetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"H.N.html\" data-toolbar=\"-mbrBtnMove\">Normal</a>"
               }
             ]
           },
@@ -164,9 +166,9 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "headerAlign": "left",
           "header": "Nossa Equipe",
@@ -385,7 +387,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Humburguers",
-        "order": 2
+        "order": 10
       },
       "components": [
         {
@@ -419,7 +421,7 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"comming soon.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -427,8 +429,9 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -436,67 +439,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
           "_anchor": "menu-6"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showBullets": true,
-            "bgColor": "#41a85f",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburguer3-664x549.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Humbuerguer Vegetariano Casero",
-                "contentAlign": "center",
-                "text": "Pensando na satisfacao de todos Saude e bem estar..",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>",
-                "overlay": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Humburguer Familiar triplo",
-                "contentAlign": "center",
-                "text": "Uma mistura Ideal para familia e amigos com ingrediente principal batas torradas.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>",
-                "overlay": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburguer1-601x546.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Humburguer Chiminha",
-                "contentAlign": "center",
-                "text": "Uma delicia, com o ingrediante principal a cove.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>",
-                "overlay": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-9"
         },
         {
           "_params": {
@@ -517,6 +465,37 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-l"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pensamos na Satisfacao de Todos!",
+          "text": "A qualidade que voce procura, aqui voce ja encontrou.. Sirva-se Porfavor...",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Vegetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"H.N.html\" data-toolbar=\"-mbrBtnMove\">Normal</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1i"
         }
       ]
     },
@@ -524,7 +503,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Gelados",
-        "order": 3
+        "order": 11
       },
       "components": [
         {
@@ -538,37 +517,40 @@
             "bgColor": "#41a85f",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/baac51-809fe275413a451fbe5e2904700e26ea-1440x832.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Copo com o melhor recheio",
-                "contentAlign": "right",
-                "text": "Recheio de sereja, uvas, morangos, jinguba, Ortelan...",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/baac51-ec98ba3fb62b4140be49e8c2fde05a73-1440x906.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Uma variedade de sabores so pra voce.",
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "Cones para sua delicia<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Canudos.html\" data-toolbar=\"-mbrBtnMove\">Cones</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Copos.html\" data-toolbar=\"-mbrBtnMove\">Copos</a>",
+                "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/copo-1080x1920.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/baac51-46dddda70b714461bbd181f2ceae9aed-1281x704.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Copo",
                 "contentAlign": "center",
                 "text": "Carregado de satisfacao para o executivo",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comprar</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Desejar</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Canudos.html\" data-toolbar=\"-mbrBtnMove\">Cones</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Copos.html\" data-toolbar=\"-mbrBtnMove\">Copos</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cone-right-1-488x417.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Uma variedade de sabores so para voce!",
+                "contentAlign": "center",
+                "text": "As nossas Escolhas constroem as nossas satisfacoes e delicias. porque nao comecar agora com uma boa escolha de sabores?<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Canudos.html\" data-toolbar=\"-mbrBtnMove\">Cones</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Copos.html\" data-toolbar=\"-mbrBtnMove\">Copos</a>",
+                "overlay": true
               }
             ]
           },
@@ -610,7 +592,7 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"comming soon.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -618,8 +600,9 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -627,7 +610,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
           "_tags": [
             "Theme"
           ],
@@ -692,7 +675,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Sobre nos",
-        "order": 1
+        "order": 9
       },
       "components": [
         {
@@ -794,7 +777,7 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"comming soon.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -802,8 +785,9 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -811,7 +795,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
           "_tags": [
             "Theme"
           ],
@@ -869,6 +853,1589 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-l"
+        }
+      ]
+    },
+    "Registrar.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Registrar-se",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/baac51-ec98ba3fb62b4140be49e8c2fde05a73-1281x907.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Registrar-se",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar Cadaastro...</a>",
+          "form": {
+            "action": "zaqueuorlando870@gmail.com",
+            "alerts": {
+              "success": "Obrigado pelo seu Registro. Disponha da sua Preferencia!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telemovel"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-z"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-x"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-y"
+        }
+      ]
+    },
+    "Login.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Login ",
+        "order": 7
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Login",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Login</a>",
+          "form": {
+            "action": "zaqueuorlando870@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1h"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-t"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-u"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        }
+      ]
+    },
+    "Front .html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Front page",
+        "order": 8
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/copo-1080x1920.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Faca o Login e Desfrute dos sabores que voce imagina!",
+          "text": "Uma geladaria que veio mudar a sua vida e a sua maneira de relaxar. E com uma combinacao de servicos e sabores ineditos para a sua satisfcao sopara te ver sorrir.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Voltar ao Menu</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Login.html\" data-toolbar=\"-mbrBtnMove\">Login</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Registrar.html\" data-toolbar=\"-mbrBtnMove\">Registrar-se</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-p",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-o"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "H.Veg",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/vegetariano-338x260.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-338x260-338x260.png",
+                "alt": "",
+                "title": "",
+                "caption": "Com molho de Queijo",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vegetariano-2-719x519.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-2-719x519-719x519.png",
+                "alt": "",
+                "title": "",
+                "caption": "Composto de Abacate",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vegetariano-1-648x432.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-1-648x432-648x432.png",
+                "alt": "",
+                "title": "",
+                "caption": "Composto de massa",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/veganburger-7-e14563451459661-500x388.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/veganburger-7-e14563451459661-500x388-500x388.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Salada BUGGER",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rambo-700x532.png",
+                "thumb": "@PROJECT_PATH@/assets/images/rambo-700x532-700x532.png",
+                "alt": "",
+                "title": "",
+                "caption": "Robusto",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/lucy-651x540.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lucy-651x540-651x540.png",
+                "alt": "",
+                "title": "",
+                "caption": "Carne Vg",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer3-473x391.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer3-473x391-473x391.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Ovo e flor de hortelan",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer-vegetariano-663x441.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer-vegetariano-663x441-663x441.png",
+                "alt": "",
+                "title": "",
+                "caption": "Pedaco de lentilhas",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer-cogumelo-581x386.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer-cogumelo-581x386-581x386.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Lentilhas e creme de rabanatas",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1476911-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1476911-1280x853-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Simples com tomate",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/0069-1-500x388.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0069-1-500x388-500x388.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Queijo",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
+                "thumb": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083-800x573.png",
+                "alt": "",
+                "title": "",
+                "caption": "Triplo com recheio de batatas",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1b"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-14"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15"
+        }
+      ]
+    },
+    "Recheios.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Recheios",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/www.thewangconnection.com-images-uvas-pasas-870x547-c-870x547.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/www.thewangconnection.com-images-uvas-pasas-870x547-c-870x547-800x503.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Todos os tipos de Uvas",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/plateau-fruits-secs-des-lutins-1kg-300x300.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/plateau-fruits-secs-des-lutins-1kg-300x300-300x300.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Variedades",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/nutritious-dry-fruits-hot-250x250.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nutritious-dry-fruits-hot-250x250-250x250.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Todos os tipos de Cereais&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/canudo-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/canudo-1280x720-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Chocolate castanho",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/amendoim-torrado-sem-sal-granel-700x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/amendoim-torrado-sem-sal-granel-700x700-700x700.png",
+                "alt": "",
+                "title": "",
+                "caption": "Ginguba Torrada",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/amendoim-casca-de-amendoim-1362750856434-956x500-956x500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/amendoim-casca-de-amendoim-1362750856434-956x500-956x500-800x418.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Ginguba Castanha",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/amendoim-japones-540x540.png",
+                "thumb": "@PROJECT_PATH@/assets/images/amendoim-japones-540x540-540x540.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2e8ca6448acf6e754d63abdb461d47ce-616x461.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2e8ca6448acf6e754d63abdb461d47ce-616x461-616x461.png",
+                "alt": "",
+                "title": "",
+                "caption": "Chocolate Branco",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dark-chocolate-e-juice-e-liquid-for-vaping-313-500x500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dark-chocolate-e-juice-e-liquid-for-vaping-313-500x500-500x500.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Chocolate Preto",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1c"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-10"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-11"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-12"
+        }
+      ]
+    },
+    "H.N.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "H.N",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburger-png-file-1-1500x1485.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburger-png-file-1-1500x1485-800x792.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer3-664x549.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer3-664x549-664x549.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburger-burger-g9y74ze-600-600x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburger-burger-g9y74ze-600-600x600-600x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
+                "thumb": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083-800x573.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burger-promo-1-770x400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burger-promo-1-770x400-770x400.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burgers-640x321.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burgers-640x321-640x321.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/tripoburger-v2-450x350.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tripoburger-v2-450x350-450x350.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/file5-232x232.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file5-232x232-232x232.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/file6-232x183.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file6-232x183-232x183.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/file7-225x225.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file7-225x225-225x225.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer1-601x546.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer1-601x546-601x546.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1d"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-17"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-18"
+        }
+      ]
+    },
+    "Canudos.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Canudos",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/sorvete-320x344.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sorvete-320x344-320x344.png",
+                "alt": "",
+                "title": "",
+                "caption": "Triplo Familiar",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/icecreamcone-1279x2347.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/icecreamcone-1279x2347-800x1468.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "4 em Um",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/helado-789x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/helado-789x1600-789x1600.png",
+                "alt": "",
+                "title": "",
+                "caption": "Simples",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cornetto-classico134-435195-530x530.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cornetto-classico134-435195-530x530-530x530.png",
+                "alt": "",
+                "title": "",
+                "caption": "Decorado",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cone-right-488x417.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cone-right-488x417-488x417.png",
+                "alt": "",
+                "title": "",
+                "caption": "Cone Curto",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cf051d333bce857d1abf8205b5586503-401x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cf051d333bce857d1abf8205b5586503-401x600-401x600.png",
+                "alt": "",
+                "title": "",
+                "caption": "Quantidade Preferida....",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/c054fcacde61e44cfc11f68633083062-600x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c054fcacde61e44cfc11f68633083062-600x1024-600x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Simples(branco)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3943dca22d9b6a4ec7f702af85bdcb84-650x625.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3943dca22d9b6a4ec7f702af85bdcb84-650x625-650x625.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Love",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1656e0c17f6f906-650x840.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1656e0c17f6f906-650x840-650x840.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Cone Curto(Neve)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/700-fo47429080-e706d369dd6f73fb5bd5c19d692e1c02-467x700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/700-fo47429080-e706d369dd6f73fb5bd5c19d692e1c02-467x700-467x700.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "4 em Um",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/168cd015a3ec69eddf5b9cfacb21fe0e-650x817.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/168cd015a3ec69eddf5b9cfacb21fe0e-650x817-650x817.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Quatro Amigos",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1q"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1j"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-1k"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1l"
+        }
+      ]
+    },
+    "Copos.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Copos",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/sorvete-italia-472x353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sorvete-italia-472x353-472x353.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Chegado",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sorbete-fresa-241x347.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sorbete-fresa-241x347-241x347.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Love",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/linha-sobremesa-2000x1607.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/linha-sobremesa-2000x1607-800x643.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Triplo Familias(copo)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ilustracao-produtos-481x418.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ilustracao-produtos-481x418-481x418.png",
+                "alt": "",
+                "title": "",
+                "caption": "Triplo Familiar",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/granchoco-241x347.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/granchoco-241x347-241x347.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Tres Um",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/frozen5-308x289.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frozen5-308x289-308x289.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Simples Morango",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cafe-gelado-700x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cafe-gelado-700x600-700x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Copo(cafe)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/600-1461058000-gxee-600x545.png",
+                "thumb": "@PROJECT_PATH@/assets/images/600-1461058000-gxee-600x545-600x545.png",
+                "alt": "",
+                "title": "",
+                "caption": "Dois Um",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/9c458df17fc2dba2855272e8a4cd63f9-ems-coffee-660x494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9c458df17fc2dba2855272e8a4cd63f9-ems-coffee-660x494-660x494.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Triplo Familiar(taca)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/09-508x700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/09-508x700-508x700.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Decorado",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7c0c99f980a08f725a22c880a497550b-650x651.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7c0c99f980a08f725a22c880a497550b-650x651-650x651.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Acompanhado",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-1n"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1o"
         }
       ]
     }
