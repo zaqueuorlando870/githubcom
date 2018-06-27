@@ -549,7 +549,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Pensamos na Satisfacao de Todos!",
+          "title": "Pensamos na sua Satisfacao!",
           "text": "A qualidade que voce procura, aqui voce ja encontrou.. Sirva-se Porfavor...",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Vegetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"H.N.html\" data-toolbar=\"-mbrBtnMove\">Normal</a>",
           "_tags": [
