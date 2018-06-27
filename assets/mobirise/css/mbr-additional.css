@@ -11,13 +11,11 @@
 
 
 
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-0 .mbr-navbar__section {
   background: #000000;
 }
 #menu-0 .mbr-navbar__hamburger {
@@ -26,6 +24,10 @@
 #menu-0 .mbr-brand__name a {
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
+}
+#menu-0 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
 }
 #slider-2 P {
   text-align: left;
@@ -54,7 +56,7 @@
   text-align: center;
   color: #efefef;
   font-family: 'Indie Flower', cursive;
-  font-size: 46px;
+  font-size: 32px;
 }
 #features1-3 .btn {
   font-family: 'Indie Flower', cursive;
@@ -71,13 +73,11 @@
 
 
 
+
 #menu-6 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-6.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-6 .mbr-navbar__section {
   background: #000000;
 }
 #menu-6 .mbr-navbar__hamburger {
@@ -86,6 +86,10 @@
 #menu-6 .mbr-brand__name a {
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
+}
+#menu-6 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
 }
 #header4-1i .btn {
   font-family: 'Indie Flower', cursive;
@@ -96,6 +100,7 @@
 #header4-1i P {
   font-family: 'Lora', serif;
 }
+
 
 
 
@@ -116,9 +121,6 @@
 #menu-a.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-a .mbr-navbar__section {
-  background: #000000;
-}
 #menu-a .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -126,11 +128,16 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-a .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-b P {
   text-align: left;
   font-family: 'Lora', serif;
   color: #cccccc;
 }
+
 
 
 
@@ -159,9 +166,6 @@
 #menu-d.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-d .mbr-navbar__section {
-  background: #000000;
-}
 #menu-d .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -169,11 +173,16 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-d .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-e P {
   text-align: left;
   font-family: 'Lora', serif;
   color: #cccccc;
 }
+
 
 
 
@@ -190,9 +199,6 @@
 #menu-w.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-w .mbr-navbar__section {
-  background: #000000;
-}
 #menu-w .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -200,11 +206,16 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-w .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-x P {
   text-align: left;
   font-family: 'Lora', serif;
   color: #cccccc;
 }
+
 
 
 
@@ -217,9 +228,6 @@
 #menu-t.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-t .mbr-navbar__section {
-  background: #000000;
-}
 #menu-t .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -227,11 +235,16 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-t .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-u P {
   text-align: left;
   font-family: 'Lora', serif;
   color: #cccccc;
 }
+
 
 
 
@@ -253,9 +266,6 @@
 #menu-m.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-m .mbr-navbar__section {
-  background: #000000;
-}
 #menu-m .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -263,11 +273,16 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-m .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-n P {
   text-align: left;
   font-family: 'Lora', serif;
   color: #cccccc;
 }
+
 
 
 
@@ -281,9 +296,6 @@
 #menu-10.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-10 .mbr-navbar__section {
-  background: #000000;
-}
 #menu-10 .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -291,11 +303,16 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-10 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-11 P {
   text-align: left;
   font-family: 'Lora', serif;
   color: #cccccc;
 }
+
 
 
 
@@ -309,9 +326,6 @@
 #menu-1j.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-1j .mbr-navbar__section {
-  background: #000000;
-}
 #menu-1j .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -319,11 +333,16 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-1j .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-1k P {
   text-align: left;
   font-family: 'Lora', serif;
   color: #cccccc;
 }
+
 
 
 
@@ -337,9 +356,6 @@
 #menu-1m.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-1m .mbr-navbar__section {
-  background: #000000;
-}
 #menu-1m .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -347,11 +363,16 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-1m .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-1n P {
   text-align: left;
   font-family: 'Lora', serif;
   color: #cccccc;
 }
+
 
 
 
@@ -365,15 +386,16 @@
 #menu-13.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-13 .mbr-navbar__section {
-  background: #000000;
-}
 #menu-13 .mbr-navbar__hamburger {
   color: #ffffff;
 }
 #menu-13 .mbr-brand__name a {
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
+}
+#menu-13 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
 }
 #contacts2-14 P {
   text-align: left;
@@ -382,13 +404,11 @@
 }
 
 
+
 #menu-16 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-16.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-16 .mbr-navbar__section {
   background: #000000;
 }
 #menu-16 .mbr-navbar__hamburger {
@@ -397,6 +417,10 @@
 #menu-16 .mbr-brand__name a {
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
+}
+#menu-16 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
 }
 #contacts2-17 P {
   text-align: left;

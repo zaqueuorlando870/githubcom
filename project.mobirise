@@ -45,9 +45,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -55,6 +53,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -63,7 +66,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -213,7 +216,7 @@
               "size": 0
             }
           },
-          "title1": "Josefina Kuayela Isaias<br><br>+244 923 396 580<br><br>josefinaisaias2015@gmail.com",
+          "title1": "Josefina Kuayela Isaias<br><br>+244 923 396 580<br><br>josefinaisaias2015<br>@gmail.com",
           "caption1": "<b>Chefe Maximo da empresa. Disposta a lhe dar a melhor assistencia no que concerne a sua area de atuacao.</b>",
           "button1": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media2": {
@@ -236,7 +239,7 @@
               "size": 0
             }
           },
-          "title2": "Gerente<br><br>+244 923 270 123<br><br>doamaralwaldirbeatz@gmail.com",
+          "title2": "Gerente<br><br>+244 923 270 123<br><br>doamaralwaldirbeatz<br>@gmail.com",
           "caption2": "<b>Gestor de Vendas e Recursos Humanos, desponivel para auxiliar-lo no que puder dentro da sua area.</b>",
           "button2": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media3": {
@@ -259,7 +262,7 @@
               "size": 0
             }
           },
-          "title3": "Desenvolvedor Web<br><br>+27 81 770 3274<br><br>zaqueuorlando870@gmail.com",
+          "title3": "Desenvolvedor Web<br><br>+27 81 770 3274<br><br>zaqueuorlando870<br>@gmail.com",
           "caption3": "<b>Desenvolvedor Web, proonto para a satisfazer os clientes e crando a imagens da empresa ao redor do mundo.</b>",
           "button3": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media4": {
@@ -345,7 +348,7 @@
               "color": "#efefef",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "46px"
+              "font-size": "32px"
             },
             ".btn": {
               "font-family": "'Indie Flower', cursive",
@@ -452,9 +455,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -462,6 +463,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -470,7 +476,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -651,9 +657,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -661,6 +665,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -669,7 +678,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -850,9 +859,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -860,6 +867,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -868,7 +880,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -1029,9 +1041,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -1039,6 +1049,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1047,7 +1062,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -1189,9 +1204,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -1199,6 +1212,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1207,7 +1225,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -1354,9 +1372,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -1364,6 +1380,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1372,7 +1393,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -1572,9 +1593,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -1582,6 +1601,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1590,7 +1614,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -1806,9 +1830,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -1816,6 +1838,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1824,7 +1851,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -2040,9 +2067,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -2050,6 +2075,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -2058,7 +2088,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -2282,9 +2312,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -2292,6 +2320,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -2300,7 +2333,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -2509,9 +2542,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -2519,6 +2550,11 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -2527,7 +2563,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
