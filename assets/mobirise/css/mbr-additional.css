@@ -35,12 +35,14 @@
 #slider-2 H1 {
   text-align: left;
   font-family: 'Indie Flower', cursive;
+  font-size: 30px;
 }
 #slider-2 .btn {
   font-family: 'Indie Flower', cursive;
 }
 #slider-2 I {
   font-family: 'Lora', serif;
+  font-size: 20px;
 }
 #features1-3 .mbr-section__col .mbr-header__text {
   text-align: left;
@@ -100,6 +102,7 @@
 }
 #header4-1i P {
   font-family: 'Lora', serif;
+  font-size: 20px;
 }
 
 
@@ -109,6 +112,7 @@
 
 #slider-c P {
   font-family: 'Lora', serif;
+  font-size: 20px;
 }
 #slider-c H1 {
   font-family: 'Indie Flower', cursive;
@@ -161,6 +165,7 @@
 }
 #msg-box4-i .mbr-article P {
   font-family: 'Lora', serif;
+  font-size: 20px;
 }
 #menu-d .mbr-brand__name {
   font-size: 16px;
@@ -194,6 +199,7 @@
 }
 #form1-z .mbr-header__text {
   font-family: 'Indie Flower', cursive;
+  font-size: 30px;
 }
 #menu-w .mbr-brand__name {
   font-size: 16px;
@@ -223,6 +229,7 @@
 
 #form2-1h .mbr-header__text {
   font-family: 'Indie Flower', cursive;
+  font-size: 30px;
 }
 #menu-t .mbr-brand__name {
   font-size: 16px;
@@ -255,9 +262,11 @@
 #header1-p P {
   text-align: center;
   font-family: 'Lora', serif;
+  font-size: 17px;
 }
 #header1-p H1 {
   font-family: 'Indie Flower', cursive;
+  font-size: 21px;
 }
 #header1-p .btn {
   font-family: 'Indie Flower', cursive;

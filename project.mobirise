@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gelataria Josefina-Isaias",
-    "currentPage": "Gelados.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -159,7 +159,8 @@
             "H1": {
               "text-align": "left",
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
             },
             ".btn": {
               "font-family": "'Indie Flower', cursive",
@@ -167,7 +168,8 @@
             },
             "I": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             }
           }
         },
@@ -549,7 +551,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Pensamos na sua Satisfacao!",
+          "title": "<br><br>Pensamos na sua Satisfacao!",
           "text": "A qualidade que voce procura, aqui voce ja encontrou.. Sirva-se Porfavor...",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Vegetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"H.N.html\" data-toolbar=\"-mbrBtnMove\">Normal</a>",
           "_tags": [
@@ -570,7 +572,8 @@
             },
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             }
           }
         }
@@ -640,7 +643,8 @@
           "_styles": {
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             },
             "H1": {
               "font-family": "'Indie Flower', cursive",
@@ -846,7 +850,8 @@
             },
             ".mbr-article P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             }
           },
           "headerAlign": "left",
@@ -1033,7 +1038,8 @@
             },
             ".mbr-header__text": {
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
             }
           }
         },
@@ -1196,7 +1202,8 @@
           "_styles": {
             ".mbr-header__text": {
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
             }
           }
         },
@@ -1356,11 +1363,13 @@
             "P": {
               "text-align": "center",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "17px"
             },
             "H1": {
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "21px"
             },
             ".btn": {
               "font-family": "'Indie Flower', cursive",
@@ -2437,7 +2446,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": false,
-            "showText": false,
+            "showText": true,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
@@ -2454,7 +2463,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/hamburguer3-664x549-664x549.png",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "Composto de Queijo Branco e&nbsp;",
                 "active": false
               },
               {
@@ -2462,7 +2471,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/hamburger-burger-g9y74ze-600-600x600-600x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "Composto de Queijo",
                 "active": false
               },
               {
@@ -2470,7 +2479,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083-800x573.png",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "Composto de batata",
                 "active": false
               },
               {
