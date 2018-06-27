@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
 
 #menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -16,6 +20,21 @@
 #menu-0 .mbr-brand__name a {
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
+}
+#features1-3 .mbr-section__col .mbr-header__text {
+  text-align: left;
+  font-size: 14px;
+  font-family: 'PT Sans', sans-serif;
+  color: #efefef;
+}
+#features1-3 B {
+  color: #41a85f;
+}
+#features1-3 .mbr-section-title .mbr-header__text {
+  text-align: center;
+  color: #efefef;
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
 }
 #contacts2-4 P {
   text-align: left;
@@ -152,26 +171,6 @@
   text-align: left;
 }
 
-#menu-13 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-13.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-13 .mbr-navbar__section {
-  background: #000000;
-}
-#menu-13 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-13 .mbr-brand__name a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 17px;
-}
-#contacts2-14 P {
-  text-align: left;
-}
-
 #menu-10 .mbr-brand__name {
   font-size: 16px;
 }
@@ -189,26 +188,6 @@
   font-size: 17px;
 }
 #contacts2-11 P {
-  text-align: left;
-}
-
-#menu-16 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-16.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-16 .mbr-navbar__section {
-  background: #000000;
-}
-#menu-16 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-16 .mbr-brand__name a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 17px;
-}
-#contacts2-17 P {
   text-align: left;
 }
 
@@ -249,5 +228,45 @@
   font-size: 17px;
 }
 #contacts2-1n P {
+  text-align: left;
+}
+
+#menu-13 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-13.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-13 .mbr-navbar__section {
+  background: #000000;
+}
+#menu-13 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-13 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#contacts2-14 P {
+  text-align: left;
+}
+
+#menu-16 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-16.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-16 .mbr-navbar__section {
+  background: #000000;
+}
+#menu-16 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-16 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#contacts2-17 P {
   text-align: left;
 }

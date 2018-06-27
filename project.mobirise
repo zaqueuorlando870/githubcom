@@ -306,7 +306,26 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-3"
+          "_anchor": "features1-3",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left",
+              "font-size": "14px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "color": "#efefef"
+            },
+            "B": {
+              "color": "#41a85f"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "text-align": "center",
+              "color": "#efefef",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_params": {
@@ -1327,238 +1346,6 @@
         }
       ]
     },
-    "page8.html": {
-      "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "H.Veg",
-        "order": 9
-      },
-      "components": [
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": false,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/vegetariano-338x260.png",
-                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-338x260-338x260.png",
-                "alt": "",
-                "title": "",
-                "caption": "Com molho de Queijo",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/vegetariano-2-719x519.png",
-                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-2-719x519-719x519.png",
-                "alt": "",
-                "title": "",
-                "caption": "Composto de Abacate",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/vegetariano-1-648x432.png",
-                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-1-648x432-648x432.png",
-                "alt": "",
-                "title": "",
-                "caption": "Composto de massa",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/veganburger-7-e14563451459661-500x388.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/veganburger-7-e14563451459661-500x388-500x388.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Salada BUGGER",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/rambo-700x532.png",
-                "thumb": "@PROJECT_PATH@/assets/images/rambo-700x532-700x532.png",
-                "alt": "",
-                "title": "",
-                "caption": "Robusto",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/lucy-651x540.png",
-                "thumb": "@PROJECT_PATH@/assets/images/lucy-651x540-651x540.png",
-                "alt": "",
-                "title": "",
-                "caption": "Carne Vg",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburguer3-473x391.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hamburguer3-473x391-473x391.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Ovo e flor de hortelan",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburguer-vegetariano-663x441.png",
-                "thumb": "@PROJECT_PATH@/assets/images/hamburguer-vegetariano-663x441-663x441.png",
-                "alt": "",
-                "title": "",
-                "caption": "Pedaco de lentilhas",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburguer-cogumelo-581x386.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hamburguer-cogumelo-581x386-581x386.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Lentilhas e creme de rabanatas",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/1476911-1280x853.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1476911-1280x853-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Simples com tomate",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/0069-1-500x388.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0069-1-500x388-500x388.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Queijo",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
-                "thumb": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083-800x573.png",
-                "alt": "",
-                "title": "",
-                "caption": "Triplo com recheio de batatas",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1b"
-        },
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#000000"
-            },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "17px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#000000",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Front .html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-13"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
-              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
-          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts2-14"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-15"
-        }
-      ]
-    },
     "Recheios.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
@@ -1764,230 +1551,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-12"
-        }
-      ]
-    },
-    "H.N.html": {
-      "settings": {
-        "meta_descr": "Web Maker Description",
-        "title": "H.N",
-        "order": 8
-      },
-      "components": [
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": false,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburger-png-file-1-1500x1485.png",
-                "thumb": "@PROJECT_PATH@/assets/images/hamburger-png-file-1-1500x1485-800x792.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburguer3-664x549.png",
-                "thumb": "@PROJECT_PATH@/assets/images/hamburguer3-664x549-664x549.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburger-burger-g9y74ze-600-600x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hamburger-burger-g9y74ze-600-600x600-600x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
-                "thumb": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083-800x573.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burger-promo-1-770x400.png",
-                "thumb": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burger-promo-1-770x400-770x400.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burgers-640x321.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burgers-640x321-640x321.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/tripoburger-v2-450x350.png",
-                "thumb": "@PROJECT_PATH@/assets/images/tripoburger-v2-450x350-450x350.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/file5-232x232.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/file5-232x232-232x232.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/file6-232x183.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/file6-232x183-232x183.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/file7-225x225.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/file7-225x225-225x225.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hamburguer1-601x546.png",
-                "thumb": "@PROJECT_PATH@/assets/images/hamburguer1-601x546-601x546.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1d"
-        },
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#000000"
-            },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "17px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#000000",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Front .html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-16"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
-              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
-          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts2-17"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-18"
         }
       ]
     },
@@ -2436,6 +1999,462 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1o"
+        }
+      ]
+    },
+    "H.V.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "H.Veg",
+        "order": 9
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/vegetariano-338x260.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-338x260-338x260.png",
+                "alt": "",
+                "title": "",
+                "caption": "Com molho de Queijo",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vegetariano-2-719x519.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-2-719x519-719x519.png",
+                "alt": "",
+                "title": "",
+                "caption": "Composto de Abacate",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vegetariano-1-648x432.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vegetariano-1-648x432-648x432.png",
+                "alt": "",
+                "title": "",
+                "caption": "Composto de massa",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/veganburger-7-e14563451459661-500x388.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/veganburger-7-e14563451459661-500x388-500x388.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Salada BUGGER",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rambo-700x532.png",
+                "thumb": "@PROJECT_PATH@/assets/images/rambo-700x532-700x532.png",
+                "alt": "",
+                "title": "",
+                "caption": "Robusto",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/lucy-651x540.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lucy-651x540-651x540.png",
+                "alt": "",
+                "title": "",
+                "caption": "Carne Vg",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer3-473x391.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer3-473x391-473x391.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Ovo e flor de hortelan",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer-vegetariano-663x441.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer-vegetariano-663x441-663x441.png",
+                "alt": "",
+                "title": "",
+                "caption": "Pedaco de lentilhas",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer-cogumelo-581x386.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer-cogumelo-581x386-581x386.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Lentilhas e creme de rabanatas",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1476911-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1476911-1280x853-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Simples com tomate",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/0069-1-500x388.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0069-1-500x388-500x388.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Queijo",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
+                "thumb": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083-800x573.png",
+                "alt": "",
+                "title": "",
+                "caption": "Triplo com recheio de batatas",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1b"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-14"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15"
+        }
+      ]
+    },
+    "H.N.N.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "H.N",
+        "order": 8
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburger-png-file-1-1500x1485.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburger-png-file-1-1500x1485-800x792.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer3-664x549.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer3-664x549-664x549.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburger-burger-g9y74ze-600-600x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburger-burger-g9y74ze-600-600x600-600x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
+                "thumb": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083-800x573.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burger-promo-1-770x400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burger-promo-1-770x400-770x400.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burgers-640x321.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burgers-640x321-640x321.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/tripoburger-v2-450x350.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tripoburger-v2-450x350-450x350.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/file5-232x232.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file5-232x232-232x232.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/file6-232x183.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file6-232x183-232x183.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/file7-225x225.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file7-225x225-225x225.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hamburguer1-601x546.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hamburguer1-601x546-601x546.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1d"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Humbuerguers.html\">Humburguers</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Gelados.html\">Gelados</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Sobre Nos.html\">Sobre Nos</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"Front .html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-gelataria-123x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Front .html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Front .html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gelataria &nbsp;J.Isaias</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Rua do Gamek frente ao banco bic, Luanda, Angola ",
+              "placeId": "ChIJfSyN3FzxURoRklrMXlwcDIU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-17"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 KambaWeb. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-18"
         }
       ]
     }
