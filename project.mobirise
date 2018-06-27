@@ -1344,7 +1344,7 @@
           },
           "title": "Faca o Login",
           "text": "Desfrute de uma Geladaria que veio mudar a sua vida e a sua maneira de relaxar.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Login</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Login.html\" data-toolbar=\"-mbrBtnMove\">Cadastre-se</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Registrar.html\" data-toolbar=\"-mbrBtnMove\">Voltar ao Menu</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"Login.html\" data-toolbar=\"-mbrBtnMove\">Login</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Registrar.html\" data-toolbar=\"-mbrBtnMove\">Cadastre-se</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Voltar ao Home</a>",
           "_tags": [
             "Theme"
           ],
