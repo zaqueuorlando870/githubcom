@@ -8,7 +8,9 @@
       "styling": {},
       "additionalSetColors": [
         "#695248",
-        "#4bb442"
+        "#4bb442",
+        "#95da99",
+        "#868686"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -181,7 +183,7 @@
             "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/shake-shack-veggie-burgers-640x321.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -191,7 +193,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.9"
           },
           "headerAlign": "left",
           "header": "Nossa Equipe",
@@ -218,7 +220,7 @@
           },
           "title1": "Josefina Kuayela Isaias<br><br>+244 923 396 580<br><br>josefinaisaias2015<br>@gmail.com",
           "caption1": "<b>Chefe Maximo da empresa. Disposta a lhe dar a melhor assistencia no que concerne a sua area de atuacao.</b>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media2": {
             "image": {
               "active": true,
@@ -241,7 +243,7 @@
           },
           "title2": "Gerente<br><br>+244 923 270 123<br><br>doamaralwaldirbeatz<br>@gmail.com",
           "caption2": "<b>Gestor de Vendas e Recursos Humanos, desponivel para auxiliar-lo no que puder dentro da sua area.</b>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media3": {
             "image": {
               "active": true,
@@ -264,7 +266,7 @@
           },
           "title3": "Desenvolvedor Web<br><br>+27 81 770 3274<br><br>zaqueuorlando870<br>@gmail.com",
           "caption3": "<b>Desenvolvedor Web, proonto para a satisfazer os clientes e crando a imagens da empresa ao redor do mundo.</b>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media4": {
             "image": {
               "active": true,
@@ -339,7 +341,7 @@
               "color": "#efefef"
             },
             "B": {
-              "color": "#41a85f",
+              "color": "#95da99",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -399,13 +401,13 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
+            "bgColor": "#868686",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "text": "Siga-nos",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> ",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> ",
           "_tags": [
             "Theme"
           ],
