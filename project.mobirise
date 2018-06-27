@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gelataria Josefina-Isaias",
-    "currentPage": "index.html",
+    "currentPage": "Recheios.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1552,7 +1552,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/amendoim-japones-540x540-540x540.png",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "Ginguba Torrada sem a casca",
                 "active": false
               },
               {
