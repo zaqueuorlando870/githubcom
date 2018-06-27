@@ -195,7 +195,7 @@
           },
           "title1": "Josefina Kuayela Isaias<br><br>+244 923 396 580<br><br>josefinaisaias2015@gmail.com",
           "caption1": "<b>Chefe Maximo da empresa. Disposta a lhe dar a melhor assistencia no que concerne a sua area de atuacao.</b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media2": {
             "image": {
               "active": true,
@@ -218,7 +218,7 @@
           },
           "title2": "Gerente<br><br>+244 923 270 123<br><br>doamaralwaldirbeatz@gmail.com",
           "caption2": "<b>Gestor de Vendas e Recursos Humanos, desponivel para auxiliar-lo no que puder dentro da sua area.</b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media3": {
             "image": {
               "active": true,
@@ -241,7 +241,7 @@
           },
           "title3": "Desenvolvedor Web<br><br>+27 81 770 3274<br><br>zaqueuorlando870@gmail.com",
           "caption3": "<b>Desenvolvedor Web, proonto para a satisfazer os clientes e crando a imagens da empresa ao redor do mundo.</b>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "media4": {
             "image": {
               "active": true,
@@ -387,7 +387,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Humburguers",
-        "order": 10
+        "order": 5
       },
       "components": [
         {
@@ -503,7 +503,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Gelados",
-        "order": 11
+        "order": 4
       },
       "components": [
         {
@@ -675,7 +675,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Sobre nos",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -742,7 +742,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Saber mais</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Login.html\" data-toolbar=\"-mbrBtnMove\">Saber mais</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-i"
         },
@@ -860,19 +860,19 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Registrar-se",
-        "order": 6
+        "order": 2
       },
       "components": [
         {
           "_params": {
             "showTitle": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/baac51-ec98ba3fb62b4140be49e8c2fde05a73-1281x907.png",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/baac51_ec98ba3fb62b4140be49e8c2fde05a73-1281x907.png",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgColor": "#41a85f",
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": "0.6"
@@ -1026,7 +1026,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Login ",
-        "order": 7
+        "order": 3
       },
       "components": [
         {
@@ -1040,7 +1040,7 @@
             "bgColorRadio": false,
             "bgColor": "#efefef",
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#41a85f",
             "overlayOpacity": "0.5"
           },
           "title": "Login",
@@ -1177,7 +1177,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Front page",
-        "order": 8
+        "order": 1
       },
       "components": [
         {
@@ -1189,7 +1189,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/copo-1080x1920.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/cf051d333bce857d1abf8205b5586503-401x600.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -1331,7 +1331,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "H.Veg",
-        "order": 4
+        "order": 9
       },
       "components": [
         {
@@ -1563,7 +1563,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Recheios",
-        "order": 5
+        "order": 10
       },
       "components": [
         {
@@ -1771,7 +1771,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "H.N",
-        "order": 3
+        "order": 8
       },
       "components": [
         {
@@ -1995,7 +1995,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Canudos",
-        "order": 2
+        "order": 7
       },
       "components": [
         {
@@ -2219,7 +2219,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Copos",
-        "order": 1
+        "order": 6
       },
       "components": [
         {
