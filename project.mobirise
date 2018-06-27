@@ -105,7 +105,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/baac51-809fe275413a451fbe5e2904700e26ea-1440x832.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -113,7 +113,7 @@
                 "contentAlign": "right",
                 "text": "<b><i>Viva a vida com recheios a sua escolha, e delicie-se fazendo misturas de sabores de frutos.</i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Recheios.html\" data-toolbar=\"-mbrBtnMove\">RECHEIOS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">SABORES</a>",
-                "overlay": false
+                "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/baac51-ec98ba3fb62b4140be49e8c2fde05a73-1440x906.png",
@@ -124,18 +124,20 @@
                 "title": "Cones",
                 "contentAlign": "right",
                 "text": "<b><i>Sabores Variados preparados com muito amor e carinho para a satisfacao sua.&nbsp;</i></b>",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">1 SABORES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">2 SABORES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">3 SABORES</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">1 SABORES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">2 SABORES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">3 SABORES</a>",
+                "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/double-chicken-double-beef-and-double-take-burgers-1512x1083.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Humburguer Familiar Triplo",
                 "contentAlign": "right",
                 "text": "<b><i>Delicie-se na maior tranquilidade, porque o que voce quer Nos sabemos Fazer.</i></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Vetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"H.N.html\" data-toolbar=\"-mbrBtnMove\">Normal</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Vetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"H.N.html\" data-toolbar=\"-mbrBtnMove\">Normal</a>",
+                "overlay": true
               }
             ]
           },
@@ -144,7 +146,25 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-2"
+          "_anchor": "slider-2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H1": {
+              "text-align": "left",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_params": {
@@ -311,19 +331,25 @@
             ".mbr-section__col .mbr-header__text": {
               "text-align": "left",
               "font-size": "14px",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#efefef"
             },
             "B": {
-              "color": "#41a85f"
+              "color": "#41a85f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-title .mbr-header__text": {
               "text-align": "center",
               "color": "#efefef",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "46px"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           }
         },
@@ -346,7 +372,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -355,7 +381,10 @@
           "_anchor": "contacts2-4",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           }
         },
@@ -378,7 +407,13 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-5"
+          "_anchor": "social-buttons2-5",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_params": {
@@ -514,7 +549,21 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-1i"
+          "_anchor": "header4-1i",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         }
       ]
     },
@@ -578,7 +627,21 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-c"
+          "_anchor": "slider-c",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_styles": {
@@ -655,7 +718,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -663,7 +726,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-b"
@@ -750,13 +816,24 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".mbr-article P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "headerAlign": "left",
@@ -840,7 +917,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -848,7 +925,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-e"
@@ -929,7 +1009,17 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-z"
+          "_anchor": "form1-z",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".mbr-header__text": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_styles": {
@@ -1006,7 +1096,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1014,7 +1104,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-x"
@@ -1080,7 +1173,13 @@
             "Theme"
           ],
           "_name": "form2",
-          "_anchor": "form2-1h"
+          "_anchor": "form2-1h",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_styles": {
@@ -1157,7 +1256,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1165,7 +1264,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-u"
@@ -1220,8 +1322,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Faca o Login e Desfrute dos sabores que voce imagina!",
-          "text": "Uma geladaria que veio mudar a sua vida e a sua maneira de relaxar. E com uma combinacao de servicos e sabores ineditos para a sua satisfcao sopara te ver sorrir.",
+          "title": "Faca o Login",
+          "text": "Desfrute de uma geladaria que veio mudar a sua vida e a sua maneira de relaxar. E com uma combinacao de servicos e sabores ineditos para a sua satisfcao sopara te ver sorrir.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Voltar ao Menu</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Login.html\" data-toolbar=\"-mbrBtnMove\">Login</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Registrar.html\" data-toolbar=\"-mbrBtnMove\">Registrar-se</a>",
           "_tags": [
             "Theme"
@@ -1231,8 +1333,16 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           }
         },
@@ -1311,7 +1421,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1319,7 +1429,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-n"
@@ -1442,7 +1555,14 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-1c"
+          "_anchor": "gallery1-1c",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1519,7 +1639,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1527,7 +1647,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-11"
@@ -1666,7 +1789,14 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-1q"
+          "_anchor": "gallery1-1q",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1743,7 +1873,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1751,7 +1881,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-1k"
@@ -1890,7 +2023,14 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-1p"
+          "_anchor": "gallery1-1p",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1967,7 +2107,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1975,7 +2115,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-1n"
@@ -2122,7 +2265,14 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-1b"
+          "_anchor": "gallery1-1b",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_styles": {
@@ -2199,7 +2349,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -2207,7 +2357,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-14"
@@ -2423,7 +2576,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ENDERECO</strong><strong><br></strong>&nbsp;Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
+          "text1": "<strong>ENDERECO</strong><strong><br></strong>Rua do Gamek frente ao Banco Bic<br>Luanda, Angola<br><br><br>CONTACTE-NOS<br>gelatariahumburgariajosefina20@gmail.com<br>+244 923 396 580",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -2431,7 +2584,10 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "contacts2-17"
