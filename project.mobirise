@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gelataria Josefina-Isaias",
-    "currentPage": "Front .html",
+    "currentPage": "Gelados.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -565,7 +565,8 @@
             },
             "H1": {
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
             },
             "P": {
               "font-family": "'Lora', serif",
@@ -643,7 +644,8 @@
             },
             "H1": {
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
             },
             ".btn": {
               "font-family": "'Indie Flower', cursive",
@@ -979,8 +981,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/baac51_ec98ba3fb62b4140be49e8c2fde05a73-1281x907.png",
             "parallax": true,
