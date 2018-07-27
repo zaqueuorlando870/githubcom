@@ -117,7 +117,7 @@
                 "title": "Copo",
                 "contentAlign": "right",
                 "text": "<b><i>Viva a vida com recheios a sua escolha, e delicie-se fazendo misturas de sabores de frutos.</i></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Recheios.html\" data-toolbar=\"-mbrBtnMove\">RECHEIOS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">SABORES</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Recheios.html\" data-toolbar=\"-mbrBtnMove\">RECHEIOS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Gelados.html\" data-toolbar=\"-mbrBtnMove\">TIPOS</a>",
                 "overlay": true
               },
               {
@@ -141,7 +141,7 @@
                 "title": "Humburguer Familiar Triplo",
                 "contentAlign": "right",
                 "text": "<b><i>Delicie-se na maior tranquilidade, porque o que voce quer Nos sabemos Fazer.</i></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Vetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"H.N.html\" data-toolbar=\"-mbrBtnMove\">Normal</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"H.Veg.html\" data-toolbar=\"-mbrBtnMove\">Vetariano</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"H.N.html\" data-toolbar=\"-mbrBtnMove\">Normal</a>",
                 "overlay": true
               }
             ]
@@ -999,7 +999,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.6"
           },
-          "title": "Registrar-se",
+          "title": "<p><a href=\"Login.html\"></a>Registrar-se</p>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar Cadaastro...</a>",
           "form": {
             "action": "zaqueuorlando870@gmail.com",
